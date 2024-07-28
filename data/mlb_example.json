@@ -1,0 +1,39 @@
+{"id": "mlb:boston_red_sox:miami_marlins:2024-07-02", 
+"sport": "Baseball", 
+"league": "MLB", 
+"teams": {
+    "away": {
+        "id": "mlb:boston_red_sox", 
+        "name": "Boston Red Sox", 
+        "abbreviation": "BOS"
+        }, 
+    "home": {
+        "id": "mlb:miami_marlins", 
+        "name": "Miami Marlins", 
+        "abbreviation": "MIA"
+        }
+    }, 
+"start": "2024-07-02T22:40:00", 
+"live": false, 
+"sportsbooks": [
+    {"id": "888sport_ontario", 
+    "name": "888sport (Ontario)", 
+    "odds": [{
+        "id": "888sport_ontario:moneyline:boston_red_sox:mlb:boston_red_sox:miami_marlins:2024-07-02",
+        "market": "Moneyline", 
+        "name": "Boston Red Sox", 
+        "main": true, 
+        "price": "-167", 
+        "link": "https://www.888sport.ca/baseball/united-states-of-america/major-league-baseball/boston-red-sox-miami-marlins-e-4326561/", 
+        "sgp": null, 
+        "players": [], 
+        "updated": "2024-07-02T21:05:24"
+        }, 
+        {"id": "888sport_ontario:moneyline:miami_marlins:mlb:boston_red_sox:miami_marlins:2024-07-02", "market": "Moneyline", 
+        "name": "Miami Marlins", 
+        "main": true, 
+        "price": "+135", 
+        "link": "https://www.888sport.ca/baseball/united-states-of-america/major-league-baseball/boston-red-sox-miami-marlins-e-4326561/", 
+        "sgp": null, 
+        "players": [], 
+        "updated": "2024-07-02T21:05:24"}]}]}
